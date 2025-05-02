@@ -1,10 +1,10 @@
 ### Hello, I'm Adarsh Khare 👋
 
 
-- 👨‍💻 <b>Frontend</b> Developer at Cognizant
-- 🔭 I’m currently working on ReactJs and JavaScript
+- 👨‍💻 <b>Frontend</b> Developer at Incaendo Technologies Pvt Ltd
+- 🔭 I’m currently working on ReactJs, NextJS,React Native, Typescript and JavaScript
 - 😄 Pronouns: He/His
-- 👯 I’m looking to collaborate on ReactJS projects
+- 👯 I’m looking to collaborate on ReactJS projects, NextJS and React Native,
 - 🤔 I’m looking for help with...
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adarshkhare29/)
