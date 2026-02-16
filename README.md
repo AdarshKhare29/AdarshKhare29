@@ -1,7 +1,7 @@
 ### Hello, I'm Adarsh Khare 👋
 
 
-- 👨‍💻 <b>Frontend</b> Developer at Incaendo Technologies Pvt Ltd
+- 👨‍💻 <b>Frontend</b> Developer at Infinite Computer Solutions
 - 🔭 I’m currently working on ReactJs, NextJS,React Native, Typescript and JavaScript
 - 😄 Pronouns: He/His
 - 👯 I’m looking to collaborate on ReactJS projects, NextJS and React Native,
